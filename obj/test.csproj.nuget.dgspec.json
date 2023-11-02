@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rocob\\Documents\\CETI\\7mo\\Avanzada1\\test\\test.csproj": {}
+    "C:\\Users\\rocob\\Documents\\CETI\\7mo\\Avanzada1\\test\\git-tests\\test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rocob\\Documents\\CETI\\7mo\\Avanzada1\\test\\test.csproj": {
+    "C:\\Users\\rocob\\Documents\\CETI\\7mo\\Avanzada1\\test\\git-tests\\test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rocob\\Documents\\CETI\\7mo\\Avanzada1\\test\\test.csproj",
+        "projectUniqueName": "C:\\Users\\rocob\\Documents\\CETI\\7mo\\Avanzada1\\test\\git-tests\\test.csproj",
         "projectName": "test",
-        "projectPath": "C:\\Users\\rocob\\Documents\\CETI\\7mo\\Avanzada1\\test\\test.csproj",
+        "projectPath": "C:\\Users\\rocob\\Documents\\CETI\\7mo\\Avanzada1\\test\\git-tests\\test.csproj",
         "packagesPath": "C:\\Users\\rocob\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rocob\\Documents\\CETI\\7mo\\Avanzada1\\test\\obj\\",
+        "outputPath": "C:\\Users\\rocob\\Documents\\CETI\\7mo\\Avanzada1\\test\\git-tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rocob\\AppData\\Roaming\\NuGet\\NuGet.Config"
