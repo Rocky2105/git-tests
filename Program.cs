@@ -4,13 +4,13 @@ using System.Net.Mail;
 string fromEmail = "rocobros21@gmail.com";
 string fromPassword = "zzkp tljs ofdd jkjh";
 
-MailMessage mailMessage = new MailMessage()
+MailMessage message = new MailMessage()
 {
     From = new MailAddress(fromEmail),
     Subject = "Test subject",
     Body = "Test body",
 };
-mailMessage.To.Add(new MailAddress("a20300699@ceti.mx"));
+message.To.Add(new MailAddress("a20300699@ceti.mx"));
 
 var smtpClient = new SmtpClient("smtp.gmail.com")
 {
@@ -19,4 +19,6 @@ var smtpClient = new SmtpClient("smtp.gmail.com")
     EnableSsl=true,
 };
 
-smtpClient.Send(mailMessage);
+System.Console.WriteLine("Email enviado");
+
+smtpClient.Send(message);
